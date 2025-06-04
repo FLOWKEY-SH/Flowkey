@@ -1,11 +1,11 @@
 {
   "manifest_version": 3,
   "update_url": "https://clients2.google.com/service/update2/crx",
-  "name": "UPOP",
-  "short_name": "UPOP",
+  "name": "Flowkey",
+  "short_name": "Flowkey",
   "description": "Upop elevates digital communication with seamless and engaging interactions.",
   "version": "1.0",
-  "author": "UPOP",
+  "author": "Flowkey",
   "homepage_url": "https://upop.gg/",
   "icons": {
     "16": "icons/icon16.png",
@@ -21,7 +21,7 @@
       "128": "icons/icon128.png"
     },
     "default_popup": "popup.html",
-    "default_title": "UPOP"
+    "default_title": "Flowkey"
   },
 
   "content_scripts": [
